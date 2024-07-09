@@ -75,7 +75,7 @@ header {
 
 .headerImg #img2{
     position: absolute;
-    height: 65vh;
+    height: 90%;
     z-index: 1;
 }
 
