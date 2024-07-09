@@ -63,9 +63,14 @@ header {
     border: solid black 1px;
     box-shadow: 0 5px 10px black;
     overflow: hidden;
-    height: 65vh;
+    height: 50vh;
     width: 100%;
 }
+
+.headerImg img{
+    height:300px;
+}
+
 .headerImg #img1{
     position: absolute;
     z-index: 3;
