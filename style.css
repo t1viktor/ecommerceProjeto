@@ -63,12 +63,12 @@ header {
     border: solid black 1px;
     box-shadow: 0 5px 10px black;
     overflow: hidden;
-    height: 50vh;
+    height: 65vh;
     width: 100%;
 }
 
 .headerImg img{
-    height:300px;
+    height:65vh;
 }
 
 .headerImg #img1{
